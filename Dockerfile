@@ -1,4 +1,14 @@
-FROM node:lts-alpine3.18 AS base
+# bash to build the image and upload to the Docker Hub
+#
+# 1. Build the image
+# docker build -t lanzoninicola/wppconnect-server:latest . --progress=plain
+#
+# 2. push the image to the Docker Hub
+# docker push lanzoninicola/wppconnect-server:latest
+
+# NOTE: if an error occurs, try again later, maybe the linux repository is down to run the apk add command
+
+FROM node:lts-alpine3.18 as base
 WORKDIR /usr/src/wpp-server
 ENV NODE_ENV=production PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 COPY package.json ./
