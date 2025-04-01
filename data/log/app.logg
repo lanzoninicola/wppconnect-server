@@ -1,0 +1,654 @@
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-05-21T01:00:14.158Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-05-21T01:00:14.163Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-05-21T01:00:14.164Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-05-21T23:42:31.470Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-05-21T23:42:31.474Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-05-21T23:42:31.474Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:33:01.575Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:34:01.726Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:34:01.879Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:34:01.880Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:35:43.823Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:36:43.931Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:36:44.099Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:36:44.099Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:37:12.119Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:38:12.236Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:38:12.508Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:38:12.509Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:41:16.655Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:42:16.761Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:42:16.920Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:42:16.921Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:43:31.990Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:44:32.086Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:44:32.377Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:44:32.377Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:49:33.789Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:50:33.880Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:50:34.048Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:50:34.049Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:51:49.815Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:52:49.938Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:52:50.204Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:52:50.204Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:54:31.440Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:55:31.560Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:55:31.824Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T01:55:31.824Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T01:59:27.645Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T02:00:27.769Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T02:00:28.045Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T02:00:28.045Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-05-22T16:49:32.043Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-05-22T16:49:32.048Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-05-22T16:49:32.049Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:49:47.120Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:49:48.268Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:50:47.295Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:50:47.441Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T16:50:47.441Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:50:48.404Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-22T16:50:48.568Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-22T16:50:48.568Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-05-25T18:14:42.965Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-05-25T18:14:42.968Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-05-25T18:14:42.968Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:15:03.493Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:15:05.154Z'
+}
+{
+  message: 'qrReadSuccess\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:02.603Z'
+}
+{
+  message: '[AMODOMIO_CHATBOT] 0% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:02.821Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:03.672Z'
+}
+{
+  message: 'Started Session: AMODOMIO_CHATBOT',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:03.809Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:03.940Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-05-25T18:16:03.940Z'
+}
+{
+  message: '[AMODOMIO_CHATBOT] 100% - Loading your chats',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:05.452Z'
+}
+{
+  message: '[AMODOMIO_CHATBOT] 100% - Carregando suas conversas',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:06.776Z'
+}
+{
+  message: 'inChat\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:16:14.433Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-05-25T18:41:12.773Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-09-09T14:57:58.469Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-09-09T14:57:58.472Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-09-09T14:57:58.472Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-09-09T15:54:49.914Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-09-09T15:54:49.917Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-09-09T15:54:49.918Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2024-09-09T18:14:28.863Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2024-09-09T18:14:28.868Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2024-09-09T18:14:28.868Z'
+}
+{
+  message: 'isLogged\n\n',
+  level: 'info',
+  timestamp: '2024-09-09T18:14:58.640Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2024-09-09T18:14:59.597Z'
+}
+{
+  message: 'qrReadError\n\n',
+  level: 'info',
+  timestamp: '2024-09-09T18:15:00.015Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2024-09-09T18:15:00.017Z'
+}
+{
+  level: 'error',
+  message: 'WAPI is not defined',
+  stack: 'Error: WAPI is not defined\n' +
+    '    at /usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:107:31\n' +
+    '    at step (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:49:23)\n' +
+    '    at Object.next (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:30:53)\n' +
+    '    at fulfilled (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:21:58)\n' +
+    'JS Stack: ReferenceError: WAPI is not defined\n' +
+    '    at pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:56:47\n' +
+    '    at pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:56:77\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at anonymous (pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:54:14)\n' +
+    'Function: function () { return WAPI.isConnected(); }',
+  timestamp: '2024-09-09T18:15:00.109Z'
+}
+{
+  level: 'error',
+  message: 'WAPI is not defined',
+  stack: 'Error: WAPI is not defined\n' +
+    '    at /usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:107:31\n' +
+    '    at step (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:49:23)\n' +
+    '    at Object.next (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:30:53)\n' +
+    '    at fulfilled (/usr/src/wpp-server/node_modules/@wppconnect-team/wppconnect/dist/api/helpers/evaluate-and-return.js:21:58)\n' +
+    '    at runNextTicks (node:internal/process/task_queues:60:5)\n' +
+    '    at process.processImmediate (node:internal/timers:449:9)\n' +
+    'JS Stack: ReferenceError: WAPI is not defined\n' +
+    '    at pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:56:47\n' +
+    '    at pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:56:77\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at anonymous (pptr:evaluate;%2Fusr%2Fsrc%2Fwpp-server%2Fnode_modules%2F%40wppconnect-team%2Fwppconnect%2Fdist%2Fapi%2Fhelpers%2Fevaluate-and-return.js%3A99%3A56:54:14)\n' +
+    'Function: function () { return WAPI.isConnected(); }',
+  timestamp: '2024-09-09T18:15:00.185Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-09-09T18:15:00.218Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2024-09-10T01:30:39.708Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-03-31T16:36:18.003Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-03-31T16:36:18.010Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-03-31T16:36:18.010Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T01:48:01.819Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T01:48:01.822Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T01:48:01.823Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:49:05.948Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:49:13.346Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:49:15.272Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:49:15.378Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T01:51:45.862Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T01:51:45.869Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T01:51:45.870Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:52:29.798Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:52:30.032Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:53:11.978Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:53:12.073Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T01:53:41.151Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T01:53:41.159Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T01:53:41.159Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T01:55:33.697Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T01:55:33.702Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T01:55:33.702Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:56:11.293Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:56:30.225Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T01:57:11.563Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T01:57:15.299Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:10.353Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:10.356Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:10.357Z'
+}
+{
+  message: 'notLogged\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:19.616Z'
+}
+{
+  message: 'qrReadFail\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:20.147Z'
+}
+{
+  message: 'Failed to read the QRCode',
+  level: 'error',
+  timestamp: '2025-04-01T02:05:20.152Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T02:05:20.252Z'
+}
+{
+  message: 'Server is running on port: 21465',
+  level: 'info',
+  timestamp: '2025-04-01T02:06:00.302Z'
+}
+{
+  message: '\x1B[31m Visit http://localhost:21465/api-docs for Swagger docs',
+  level: 'info',
+  timestamp: '2025-04-01T02:06:00.307Z'
+}
+{
+  message: 'WPPConnect-Server version: 2.4.4',
+  level: 'info',
+  timestamp: '2025-04-01T02:06:00.308Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T02:06:49.514Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T02:06:53.755Z'
+}
+{
+  message: 'Auto Close Called',
+  level: 'error',
+  timestamp: '2025-04-01T02:07:19.254Z'
+}
+{
+  message: 'browserClose\n\n',
+  level: 'info',
+  timestamp: '2025-04-01T02:07:19.493Z'
+}
