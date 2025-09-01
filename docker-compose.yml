@@ -1,16 +1,40 @@
-version: "3"
+version: "3.9"
+
+networks:
+  edge:
+    external: true
+
+volumes:
+  wppconnect_tokens:
 
 services:
   wppconnect:
     container_name: wpp-server
+    image: lanzoninicola/wppconnect:latest
     restart: unless-stopped
-    build:
-      context: .
+    # ❌ Não publique porta aqui; Traefik fará o proxy
+    # ports:
+    #   - "21465:21465"
+    networks:
+      - edge
     volumes:
       - ./config.ts:/usr/src/wpp-server/config.ts
-      - ./wppconnect_tokens:/usr/src/wpp-server/tokens
-    ports:
-      - "21465:21465"
+      - wppconnect_tokens:/usr/src/wpp-server/tokens
 
-volumes:
-  wppconnect_tokens: {}      
+    labels:
+      - traefik.enable=true
+      # rede que o Traefik usará para alcançar o serviço
+      - traefik.docker.network=edge
+
+      # Roteador HTTPS
+      - traefik.http.routers.wpp.rule=Host(`bot.amodomio.dev`)
+      - traefik.http.routers.wpp.entrypoints=websecure
+      - traefik.http.routers.wpp.tls=true
+      # use o mesmo certresolver do seu stack Traefik (ajuste o nome se diferente)
+      - traefik.http.routers.wpp.tls.certresolver=letsencrypt
+
+      # Serviço aponta para a porta interna do app (a do seu servidor HTTP)
+      - traefik.http.services.wpp.loadbalancer.server.port=21465
+      # (opcional) compactação e cabeçalhos
+      - traefik.http.middlewares.wpp-compress.compress=true
+      - traefik.http.routers.wpp.middlewares=wpp-compress
