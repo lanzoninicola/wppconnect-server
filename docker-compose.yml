@@ -1,3 +1,8 @@
+# Processo operativo
+# 1- npm run docker:release
+# 2- Copiar a tag exibida (2025.09.04-1542)
+# 3- Colar no docker-compose.yml no Portainer → Update stack com re-pull
+# 4- Conferir logs + testar serviço
 version: "3.9"
 
 networks:
@@ -38,3 +43,5 @@ services:
       # (opcional) compactação e cabeçalhos
       - traefik.http.middlewares.wpp-compress.compress=true
       - traefik.http.routers.wpp.middlewares=wpp-compress
+
+
